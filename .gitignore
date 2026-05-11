@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pem
+*.json
+*.exe
+app.yaml
